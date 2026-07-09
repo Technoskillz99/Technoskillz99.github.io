@@ -5,8 +5,8 @@ players = {    'Haaland':{ 'name': 'Haaland',    'position': 'St',    'club': 'M
               }
 print('These are the players and their stats: ')
 pprint.pprint(players)
-players['Haaland'].update({'goals':'61' , 'assists':'11'})
-players.update({'Bellingham': {'position':'Amf' , 'club': 'England'}})
+players['Haaland'].update({'goals': 61 , 'assists':'11'})
+players['Bellingham'].update({'position':'Amf' , 'club': 'England'})
 players['Haaland'].pop('club')
 print("Any new statistics you'd like to change?")
 footballer = input('footballer name:  ')
