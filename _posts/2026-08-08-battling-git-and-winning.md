@@ -1,6 +1,6 @@
 ---
 title: Battling Git, Tokens, and Winning My First Green Squares
-date: 2026-08-08 17:00:00 +/-0100
+date: 2026-08-08 17:00:00 +0100
 categories: [Journey, Engineering]
 tags: [git, github, workflow, python]
 ---
