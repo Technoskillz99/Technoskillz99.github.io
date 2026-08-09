@@ -34,7 +34,7 @@ I then extracted the information I was interested in:
 
 I decided to start by plotting the points of the top 10 teams.
 
-![Bar Chart](../assets/images/bar_chart.png.png)
+![Bar Chart](../assets/images/bar_chart.png)
 
 The graph makes it much easier to compare the teams than simply looking at
 the numbers in a table.
