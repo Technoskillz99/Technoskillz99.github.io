@@ -28,13 +28,13 @@ I then extracted the information I was interested in:
 - Goals scored
 - Goals conceded
 
-![Premier League standings](../assets/img/football-analysis/standings.png)
+![Premier League standings](../assets/images/football-analysis/standings.png)
 
 ## Visualising the table
 
 I decided to start by plotting the points of the top 10 teams.
 
-![Premier League standings](../assets/img/bar_chart.png.png)
+![Premier League standings](../assets/images/bar_chart.png.png)
 
 The graph makes it much easier to compare the teams than simply looking at
 the numbers in a table.
@@ -49,7 +49,7 @@ The results were:
 - Position vs goals scored: **-0.773**
 - Position vs goals conceded: **0.936**
 
-![Correlation matrix](../assets/img/Correlation.png)
+![Correlation matrix](../assets/images/Correlation.png)
 
 The correlation between position and goals conceded was incredibly strong.
 The value of 0.936 suggests a very strong positive relationship between the
