@@ -28,13 +28,13 @@ I then extracted the information I was interested in:
 - Goals scored
 - Goals conceded
 
-![Premier League standings](../assets/images/football-analysis/standings.png)
+![Premier League standings](../assets/images/standings.png)
 
 ## Visualising the table
 
 I decided to start by plotting the points of the top 10 teams.
 
-![Premier League standings](../assets/images/bar_chart.png.png)
+![Bar Chart](../assets/images/bar_chart.png.png)
 
 The graph makes it much easier to compare the teams than simply looking at
 the numbers in a table.
